@@ -2,7 +2,7 @@ El hotel del centro es el más antiguo del pueblo y también es aquel que tiene 
 
 de familia. En 1975 un inversionista compró esta propiedad y la reformó para transformarla en el hotel que hoy conocemos. Es un hotel pequeño, pero cuenta con servicio a la habitación, con pileta climatizada, con un restaurante de categoría, entre otras cosas.
 
-de familia. En 1975 un inversionista compró esta propiedad y la reformó para transformarla en el hotel que hoy conocemos. Es un hotel pequeño, pero cuenta con servicio a la habitación, con pileta climatizada, con un restaurante de categoría, entre otras cosas.
+de familia. En 1975 un inversionista compró esta propiedad y la reformó para transformarla en el hotel que hoy conocemos. Es un hotel pequeño, pero  otras cosas.
 
 tercer parrafo
 
@@ -13,4 +13,6 @@ quinto parrafo
 sexto parrafo
 
 septimo parrafo
+
+
 
